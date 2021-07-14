@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T08:54:40.619Z" agent="5.0 (Windows)" etag="-jJDPURvUJdeZbOwNiJj" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T09:00:51.024Z" agent="5.0 (Windows)" etag="KAYZzo8NjNL2VM9BGQcx" version="14.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -7,25 +7,25 @@
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dr4ZRQpBwiBQjPsfkBms-5" target="Dr4ZRQpBwiBQjPsfkBms-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-5" value="申购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-5" value="百信plus申购申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dr4ZRQpBwiBQjPsfkBms-6" target="Dr4ZRQpBwiBQjPsfkBms-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="80" width="120" height="421" as="geometry" />
+          <mxGeometry x="259.5" y="79.5" width="120" height="421" as="geometry" />
         </mxCell>
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dr4ZRQpBwiBQjPsfkBms-8" target="Dr4ZRQpBwiBQjPsfkBms-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-8" value="&lt;div&gt;百信PLUS交易策略集合&lt;/div&gt;&lt;div&gt;申购申请策略&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="129" width="136" height="324" as="geometry" />
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="64" width="136" height="452" as="geometry" />
         </mxCell>
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dr4ZRQpBwiBQjPsfkBms-10" target="Dr4ZRQpBwiBQjPsfkBms-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-10" value="百信PLUS交易策略集合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-10" value="申购申请策略" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="676" y="260" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-12" value="获取申购策略" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -49,8 +49,35 @@
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-19" value="&lt;div&gt;&lt;div&gt;百信存款&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="232" width="83" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-22" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-22" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="458" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-24" value="产品策略工厂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="274" y="90" width="91" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-27" value="&lt;div&gt;百信PLUS交易策略集合&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="465" y="78" width="131" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-28" value="创建申购单策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="484.5" y="120" width="92" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-29" value="申购申请策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="484.5" y="168" width="92" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-30" value="申购通知策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481.5" y="216" width="92" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-31" value="撤单策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481.5" y="269" width="92" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-32" value="赎回策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481.5" y="318" width="92" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-33" value="收益处理策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="479.5" y="366" width="92" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-35" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481.5" y="417" width="92" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

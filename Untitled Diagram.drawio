@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T09:20:50.156Z" agent="5.0 (Windows)" etag="U2ECb-Mx5avNLWGWt1RJ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T09:21:09.322Z" agent="5.0 (Windows)" etag="uZ25U_pY4Zlix7nVDNEf" version="14.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -119,8 +119,8 @@
         <mxCell id="Dr4ZRQpBwiBQjPsfkBms-62" value="银行网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dr4ZRQpBwiBQjPsfkBms-60">
           <mxGeometry x="354" y="6" width="61" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-63" value="报文转换+报文加解密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dr4ZRQpBwiBQjPsfkBms-60">
-          <mxGeometry x="180" y="132" width="129" height="20" as="geometry" />
+        <mxCell id="Dr4ZRQpBwiBQjPsfkBms-63" value="报文转换+加解密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dr4ZRQpBwiBQjPsfkBms-60">
+          <mxGeometry x="170" y="132" width="129" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
